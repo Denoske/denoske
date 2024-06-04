@@ -2,7 +2,7 @@
 
  ### I'm Denis, software engineer student from St. Petersburg, Russia.
  
- * 🐦 Interested in frontend development
+ * 🐦 Interested in software development
  * 📑 Currently studying at [ITMO University](https://itmo.ru/ru/)
  * 🐳 Searching for internship
  * 📬 Contact me via [vk](https://vk.com/denoske), [telegram](https://t.me/Denoske) or <denoske@vk.com>
